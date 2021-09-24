@@ -1,1 +1,2 @@
  methodLibrary();
+ methodLibrary3();
